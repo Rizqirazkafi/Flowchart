@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T14:00:51.936Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.106 Safari/537.36" etag="VXBpfyUhY03AyezizISL" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T14:08:22.061Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.106 Safari/537.36" etag="LCqmroQ10EdcyFVaOXyF" version="13.7.2" type="github">
   <diagram id="bzRZmQTE7lRBuNSe1v11" name="Page-1">
-    <mxGraphModel dx="1140" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,18 +52,13 @@
         <mxCell id="8GPr4CHNrLkDhuZ7VBwH-9" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="350" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8GPr4CHNrLkDhuZ7VBwH-12" target="8GPr4CHNrLkDhuZ7VBwH-33">
+        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8GPr4CHNrLkDhuZ7VBwH-12" target="8GPr4CHNrLkDhuZ7VBwH-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="340" as="targetPoint" />
+            <mxPoint x="180" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8GPr4CHNrLkDhuZ7VBwH-12" value="Var *nama-mapel*&lt;br&gt;=&lt;br&gt;Double *nilai-mapel*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="8GPr4CHNrLkDhuZ7VBwH-33" target="8GPr4CHNrLkDhuZ7VBwH-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="222.5" y="420" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="8GPr4CHNrLkDhuZ7VBwH-17" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="399" y="420" width="30" height="20" as="geometry" />
@@ -98,11 +93,14 @@
         <mxCell id="8GPr4CHNrLkDhuZ7VBwH-31" value="Nama : M. Rizqi R&lt;br&gt;NIM : 20051204034&lt;br&gt;Kelas : TI-B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="300" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-33" value="&lt;br&gt;Storage&lt;br&gt;nama dan nilai mapel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="380" width="100" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="8GPr4CHNrLkDhuZ7VBwH-34" value="Penyimpanan data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8GPr4CHNrLkDhuZ7VBwH-35" target="8GPr4CHNrLkDhuZ7VBwH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-35" value="&lt;span&gt;Storage&lt;/span&gt;&lt;br&gt;&lt;span&gt;nama dan nilai mapel&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="455" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
