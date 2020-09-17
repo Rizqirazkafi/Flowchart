@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T11:54:31.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.106 Safari/537.36" etag="6Qkp217Sn1uQRgbvJjrj" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T11:56:10.341Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.106 Safari/537.36" etag="-bl4sWV-rI-CGgEICef7" version="13.7.2" type="github">
   <diagram id="kvcxEiNe6KGOvkR3uuol" name="Page-1">
-    <mxGraphModel dx="1609" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="wgAKyjkutD9ggf6N_2NO-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wgAKyjkutD9ggf6N_2NO-15" value="Nama : M. Rizqi R&lt;br&gt;NIM : 20051204034&lt;br&gt;Kelas : TI-B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
