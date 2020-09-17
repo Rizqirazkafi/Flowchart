@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T13:15:47.335Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.106 Safari/537.36" etag="4K-FyUEsIKDDHZY0Tfgk" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T13:16:43.482Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.106 Safari/537.36" etag="Gj1NMllHn_0jhM6EcRlm" version="13.7.2" type="github">
   <diagram id="bzRZmQTE7lRBuNSe1v11" name="Page-1">
     <mxGraphModel dx="1140" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="8GPr4CHNrLkDhuZ7VBwH-9" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="350" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8GPr4CHNrLkDhuZ7VBwH-12">
+        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8GPr4CHNrLkDhuZ7VBwH-12" target="8GPr4CHNrLkDhuZ7VBwH-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="340" as="targetPoint" />
           </mxGeometry>
@@ -99,7 +99,10 @@
           <mxGeometry x="40" y="300" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8GPr4CHNrLkDhuZ7VBwH-33" value="&lt;br&gt;Storage&lt;br&gt;nama dan nilai mapel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170" y="340" width="100" height="80" as="geometry" />
+          <mxGeometry x="80" y="380" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8GPr4CHNrLkDhuZ7VBwH-34" value="Penyimpanan data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
