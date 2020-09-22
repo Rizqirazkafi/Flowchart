@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T01:17:41.033Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.106 Safari/537.36" etag="I0cCdTc-VsHGLS3efucK" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T01:28:31.209Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.106 Safari/537.36" etag="FaI08VKRpiIkwPzNlvc9" version="13.7.3" type="github">
   <diagram id="w4JDomxg7ZhcGsPiqvvo" name="Page-1">
-    <mxGraphModel dx="792" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,27 @@
         </mxCell>
         <mxCell id="WcXP7tUnFn8IYkpZkmqW-8" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="650" y="530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcXP7tUnFn8IYkpZkmqW-10" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Nama : M. Rizqi R&lt;br&gt;NIM :&amp;nbsp;20051204034&lt;br&gt;LKM&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WcXP7tUnFn8IYkpZkmqW-11" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Nilai Tugas = nt&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Nilai Kuis = nk&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Nilai ETS = ets&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Nilai EAS = eas&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WcXP7tUnFn8IYkpZkmqW-12" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Bobot Tugas = bt&lt;br&gt;Bobot Kuis = bk&lt;br&gt;Bobot ETS = be&lt;br&gt;Bobot EAS = ba&lt;br&gt;&lt;br&gt;Nilai akhir = na&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WcXP7tUnFn8IYkpZkmqW-13" value="Psuedocode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="20" y="480" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcXP7tUnFn8IYkpZkmqW-14" value="Deklarasi Variabel&lt;br&gt;nt,nk,ets,eas = integer&lt;br&gt;bt,bk,be,ba,na = desimal&lt;br&gt;&lt;br&gt;Begin&lt;br&gt;&lt;div&gt;&lt;span&gt;Input (nt,nk,ets,eas,bt,bk,be,ba)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;na = nt*bt+nk*bk+ets*be+eas*ba&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;output (na)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;End&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WcXP7tUnFn8IYkpZkmqW-15" value="Kesimpulan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="10" y="830" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WcXP7tUnFn8IYkpZkmqW-16" value="&lt;div&gt;Algoritma merupakan sederetan langkah komputasi yang&lt;/div&gt;&lt;div&gt;mentransformasikan input menjadi&amp;nbsp;&lt;span&gt;output. Lebih tepatnya,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;sebuah algoritma hanya dapat digunakan untuk menyelesaikan satu jenis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;permasalahan saja. Tiga elemen utama pendukung algoritma adalah input,&lt;/div&gt;&lt;div&gt;proses dan output.&lt;span&gt;Input merupakan data masukan yang akan diolah,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;sedangkan proses merupakan tahap-tahap yang&amp;nbsp;&lt;/span&gt;&lt;span&gt;diperlukan dalam&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;pengolahan.&amp;nbsp;&lt;/span&gt;&lt;span&gt;Output adalah hasil dari proses pengolahan data input.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Penyusunan&amp;nbsp;&lt;/span&gt;&lt;span&gt;algoritma dapat dilakukan dengan menggunakan dua metode,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;yakni flowchart dan pseudocode.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="10" y="860" width="810" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
