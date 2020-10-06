@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T11:55:59.901Z" agent="5.0 (X11)" version="13.7.7" etag="b7FTpGJBIiFbL370_O6-" type="github"><diagram id="oz5weRvFCRklSf2JF1Bt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-06T12:40:51.521Z" agent="5.0 (X11)" etag="IHYwXragbEo9GxQXTUbu" version="13.7.7" type="github">
+  <diagram id="oz5weRvFCRklSf2JF1Bt" name="Page-1">
+    <mxGraphModel dx="1282" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O-H2GcqhOEYB3syv0Sq-8" value="Input bil1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
